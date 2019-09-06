@@ -45,5 +45,5 @@ output:
 
 ## Foros
 
-1) [Foro Clase 1](foros/foroClase1.Rmd)
+1) [Foro Clase 1](foros/foroClase1.html)
 
