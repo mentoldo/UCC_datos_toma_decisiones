@@ -43,4 +43,8 @@ output:
 1) [Práctico 1](practicos/practico1.pdf)
 2) [Práctico 2](practicos/practico2.pdf)
 
+## Foros
+
+1) [Foro Clase 1]()
+
 ## Clase 2
