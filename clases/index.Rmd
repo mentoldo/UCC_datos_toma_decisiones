@@ -10,10 +10,14 @@ output:
       
 ---
 
+## CIFE  
+
+* [Presentación](./presentacion/presentacion.html)
+
 
 ## Clase 1
 
-### Presentaciones
+### Diapositivas
 1) [Introducción](./01_Introducción/introduccion.html)
 2) [Ejemplos](./01_ejemplosIntroduccion/ejemplosIntroduccion.html)
 3) [Niveles de Medición](./01_NivelesMedicion/nivelesMedicion.html)
@@ -45,5 +49,9 @@ output:
 
 ## Foros
 
-1) [Foro Clase 1](foros/foroClase1.html)
+1) [Clase 1](foros/foroClase1.html)
 
+## Guías de Instalación de Software
+
+* [Infostat](https://www.youtube.com/watch?v=Wq7yUAiTgCo)
+* [R y RStudio](https://www.youtube.com/watch?v=IyJuTU82ikM)
