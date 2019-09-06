@@ -45,6 +45,5 @@ output:
 
 ## Foros
 
-1) [Foro Clase 1]()
+1) [Foro Clase 1](foros/foroClase1.Rmd)
 
-## Clase 2

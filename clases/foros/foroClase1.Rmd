@@ -1,5 +1,5 @@
 ---
-title: "<img src='./img/logo_UCC.png' width='150' style = 'position:absolute; top:10px; right:15%; padding:10px; z-index:-1; opacity:0.25'>Uso de datos para la toma de decisiones en Gestión Educativa"
+title: "<img src='../img/logo_UCC.png' width='150' style = 'position:absolute; top:10px; right:15%; padding:10px; z-index:-1; opacity:0.25'>Uso de datos para la toma de decisiones en Gestión Educativa"
 subtitle: "Centro de Investigación de la Facultad de Educación (CIFE)<br> Universidad Católica de Córdoba"
 author: Eduardo L. Bologna; Matías A. Alfonso
 date: "`r format(Sys.time(), '%d %B, %Y')`"
@@ -9,7 +9,6 @@ output:
       toc_float: TRUE
       
 ---
-
 
 ## Discusión
 
